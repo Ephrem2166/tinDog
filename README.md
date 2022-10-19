@@ -1,3 +1,2 @@
 # tinDog
-A tinDog Website
-TinDog Starting Files
+A tinder website for Dogs developed using HTML, CSS and Bootstrap (Only Frontend).
